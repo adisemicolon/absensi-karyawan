@@ -25,16 +25,22 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ##Tampilan
 # Halaman Depan
-![halaman depan](https://user-images.githubuserconten.com/17906022/69505980-1c571400-0f5f-11ea-8632-9f1e24755691.png)
+![image](https://user-images.githubusercontent.com/17906022/69514668-b084a380-0f7e-11ea-8436-8662a6326df5.png)
 
 # Daftar Karyawan
-![absen](https://user-images.githubusercontent.com/17906022/69505978-1bbe7d80-0f5f-11ea-82e8-b3d05c8760cc.png)
+![absen](https://user-images.githubusercontent.com/17906022/69514675-b11d3a00-0f7e-11ea-93f9-c75be3bd31ed.png)
 
 # Agenda
-![agenda](https://user-images.githubusercontent.com/17906022/69505979-1bbe7d80-0f5f-11ea-9764-f2be8380da2d.png)
+![agenda](https://user-images.githubusercontent.com/17906022/69514672-b11d3a00-0f7e-11ea-845b-c7881ec09568.png)
 
 # Absen
-![karyawan](https://user-images.githubusercontent.com/17906022/69505981-1c571400-0f5f-11ea-868f-6f352d546cff.png)
+![karyawan](https://user-images.githubusercontent.com/17906022/69514671-b084a380-0f7e-11ea-9dec-aa43f70de7df.png)
+
+
+
+
+
+
 
 
 
